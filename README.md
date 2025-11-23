@@ -59,7 +59,7 @@ Create, edit, and manage your blog posts with a beautiful and intuitive user int
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 
